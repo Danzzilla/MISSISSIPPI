@@ -1,0 +1,12 @@
+# MISSISSIPPI
+
+This programs purpose is to spell out the word mississippi in block like letters with the letter of each letter and to practice with breaking up things into separate methods 
+and seeing patterns
+
+* This program was originally created on 10/1/2020
+
+## Things I've learned
+* Writing multiple methods and calling methods
+* Learned to see patterns and to put patterns that could be repeated into different methods
+* Getting used to commenting my code
+* Added knowledge on top of what I already know
