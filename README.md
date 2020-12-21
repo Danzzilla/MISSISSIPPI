@@ -7,6 +7,7 @@ and seeing patterns
 
 ## Things I've learned
 * Writing multiple methods and calling methods
-* Learned to see patterns and to put patterns that could be repeated into different methods
+* Learned to see patterns
+* Putting patterns that could be repeated into their own methods
 * Getting used to commenting my code
 * Added knowledge on top of what I already know
