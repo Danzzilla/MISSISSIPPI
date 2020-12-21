@@ -37,7 +37,7 @@ public class MISSISSIPPI {
 	      System.out.println("      I       ");
 	    }
 
-	public static void I() {                      //Calls functins to form a block-like letter "I"
+	public static void I() {                      //Calls functions to form a block-like letter "I"
 	      ICross();
 	      ILine();
 	      ICross();
